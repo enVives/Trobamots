@@ -1,2 +1,2 @@
 # Trobamots
-Wordle en CAtalà
+Wordle en Català
