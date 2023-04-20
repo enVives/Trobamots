@@ -1,0 +1,2 @@
+# Trobamots
+Wordle en CAtalà
